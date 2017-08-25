@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1458368741 source:d:\prep_projects\projects\linked list\merge two sorted list\iterativeversion.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+
+1458368822 source:d:\prep_projects\projects\linked list\merge two sorted list\recursive version.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+
+1458377038 source:d:\prep_projects\projects\linked list\reverse linked list\mainfile.c
+	<stdio.h>
+	<stdlib.h>
+
